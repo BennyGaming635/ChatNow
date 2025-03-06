@@ -14,7 +14,7 @@ def get_local_ip():
         ip = "localhost"
     return ip
 
-HOST = get_local_ip()  # Auto-detect local IP
+HOST = get_local_ip()
 PORT = 5555
 clients = {}
 
