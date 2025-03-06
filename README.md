@@ -11,3 +11,6 @@
 
 # Bugs
 ### With any new programs - bugs are to be expected. I've tried to squash them all but since i'm a high schooler I might of not gotten them all! Just make a issue.
+
+# Credits
+### Credit to @itsmehecker for the emoji idea.
